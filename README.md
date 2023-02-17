@@ -60,3 +60,7 @@ The third one produced CodeGen-Mono, which was built upon CodeGen-Multi with add
 ### Codex
 Codex is the first work to use large generative pre-trained models to generate complete functions from natural language.
 Since the Codex did not open-source the model and we do not know the model parameter scale with 300M from the codex in OpenAI, so we use the code-davinci-002 in our experiments.
+
+## Unit Test Cases
+Since the particularity of test cases in CoderEval, test cases are embedded in complete test code of the project. 
+Due to the restricted regulations in our corporate company, we can't publish it temporarily now, but we will provide API service soon.
