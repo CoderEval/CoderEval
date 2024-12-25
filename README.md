@@ -1,6 +1,6 @@
 # CoderEval
 CoderEval is a pragmatic code generation benchmark to evaluate the performance of generative pre-trained models. Compared with the widely-used HumanEval benchmark from OpenAI, CoderEval can be used to evaluate the performance of models against pragmatic code generation beyond just generating standalone functions.
-The Docker environment of CoderEval is available at https://drive.google.com/drive/folders/1F8M7e25MgHZ3XJ4RSOGWindFSWC5QOvI?usp=sharing.
+The Docker environment of CoderEval is available at https://drive.google.com/drive/folders/1F8M7e25MgHZ3XJ4RSOGWindFSWC5QOvI?usp=sharing. Regarding how to import Docker, please refer to issue 4.
 
 ## Benchmark Dataset
 ### 1. Overall
